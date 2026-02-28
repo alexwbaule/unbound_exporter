@@ -388,7 +388,6 @@ var (
 			nil,
 			"^rrset\\.cache\\.count$",
 		},
-
 		{
 			"rpz_action_count",
 			"Total number of triggered Response Policy Zone actions, by type.",
